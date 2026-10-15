@@ -2,3 +2,6 @@ test_tink
 test_tink.exe
 *.o
 *.obj
+# tpkg 规范
+target/
+_local_only/
